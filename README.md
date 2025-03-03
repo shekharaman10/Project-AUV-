@@ -1,1 +1,2 @@
 # Project-AUV-
+Project AUV Manipal, founded in 2019, is the underwater robotics student team with a common interest in exploring the field of underwater robotics. Team aims to conceptualize, design, and fabricate Remotely Operated Vehicles (ROVs) and Autonomous Underwater Vehicles (AUVs) for both research and competitive purposes. Using state-of-the-art tools and technology, various subsystems are working on the design and fabrication of AUV.
